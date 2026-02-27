@@ -20,6 +20,7 @@ Once the marketplace is added, you can install any of the following:
 
 - **[Allium](https://juxt.github.io/allium/)**: an LLM-native language for sharpening intent alongside implementation.
 - **[Chalk](plugins/chalk/)**: GitHub Issue-backed agent session memory. Like [beads](https://github.com/steveyegge/beads) but uses GitHub Issues as the storage backend.
+- **[Compete](plugins/compete/)**: Dispatch competing subagents for parallel review, research, or critique.
 
 Each plugin is open source. Visit the links above for documentation and examples.
 

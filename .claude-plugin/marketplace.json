@@ -39,6 +39,14 @@
       ]
     },
     {
+      "name": "compete",
+      "description": "Dispatch competing subagents for parallel review, research, or critique.",
+      "source": "./plugins/compete",
+      "skills": [
+        "./skills/compete"
+      ]
+    },
+    {
       "name": "glance",
       "description": "Pipe long command output through glance for token-efficient summaries instead of reading all tokens.",
       "source": {

@@ -1,0 +1,5 @@
+{
+  "name": "compete",
+  "version": "0.1.0",
+  "description": "Dispatch competing subagents for parallel review, research, or critique"
+}
